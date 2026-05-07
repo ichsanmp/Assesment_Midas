@@ -1,0 +1,14 @@
+# Clone repository
+git clone <repo-url>
+
+# Create and switch to new branch
+git checkout -b feature/banking-test
+
+# Add login script
+git add 1-mobile-automation/
+
+# Commit
+git commit -m "feat: add mobile banking login automation"
+
+# Push to remote
+git push origin feature/banking-test
