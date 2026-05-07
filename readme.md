@@ -1,7 +1,7 @@
-# QA Engineer - Technical Assessment
+# QA Automation - Technical Assessment - PT Midas Daya Teknologi
 
 **Nama:** Ichsan Maa'arif Pratama  
-**Posisi:** QA Engineer  
+**Posisi:** QA Automation  
 
 ---
 
