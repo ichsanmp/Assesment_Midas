@@ -7,12 +7,12 @@
 
 ## Struktur Project
 
-Assessment_Midas
-├── 1-mobile-automation # UI Automation (WebdriverIO + Appium)
-├── 2-sql-query # Database Verification
-├── 3-performance-test # API Load Testing (k6)
-├── 4-git-api-testing # Git Commands & API Security
-
+Assessment Midas
+- **1-mobile-automation** → UI Automation (WebdriverIO + Appium)
+- **2-sql-query** → Database Verification
+- **3-performance-test** → API Load Testing (k6)
+- **4-git-api-testing** → Git Commands & API Security
+- **5-execution-report** → Summary Execution Report
 
 ---
 
